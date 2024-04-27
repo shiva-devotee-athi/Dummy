@@ -7,3 +7,5 @@ class MyHome:
 homeMates = MyHome("my Name")
 # print(homeMates.name)
 homeMates.father()
+homeMates.father()
+homeMates.father()
